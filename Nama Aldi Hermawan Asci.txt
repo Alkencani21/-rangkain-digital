@@ -1,0 +1,15 @@
+Aldi Hermawan
+41 61 64 69 20 48 65 72 6D 41 77 41 6E
+A  l  d  i     H  e  r  m  a  w  a  n
+
+
+hitung hexadesimal nama Aldi
+
+
+235
+
+Binner
+   A          l      d        i
+01000001 01101100 01100100 01101001
+   H         e         r       m      a        w         a      n
+01001000 01100101 01110010 01101101 01100001 01110111 0110001 01101110 00100000
